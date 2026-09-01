@@ -1,0 +1,6 @@
+{
+  "name": "SafeScroll - Youth Social Media Guardian",
+  "description": "Educational platform and parental monitor exploring the impact of social media on under-18 youth, with automated parent SMS alerts for excessive screen time, usage history, and news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
